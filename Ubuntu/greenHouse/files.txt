@@ -1,0 +1,22 @@
+total 72
+-rw-rw-r-- 1 omkar omkar    0 Jul 20 03:02 ab1.txt
+-rw-rw-r-- 1 omkar omkar    0 Jul 20 03:02 ab.txt
+-rw-rw-r-- 1 omkar omkar    4 Jul 12 13:02 ab.xt
+-rw-rw-r-- 1 omkar omkar   10 Jul 23 21:30 Albhabet.txt
+drwxrwxr-x 4 omkar omkar 4096 Jul 15 17:45 cmd
+-rw-rw-r-- 1 omkar omkar  111 Jul 24 20:04 Friends.txt
+-rw-rw-r-- 1 omkar omkar    0 Jul 18 18:58 linkab
+-rw-rw-r-- 1 omkar omkar   33 Jul 24 00:43 max.txt
+-rw-rw-r-- 1 omkar omkar  118 Jul 20 00:59 myName.txt
+-rw-rw-r-- 1 omkar omkar   29 Jul 24 01:52 Num1.txt
+-rw-rw-r-- 1 omkar omkar   10 Jul 23 21:30 num.txt
+-rw-rw-r-- 1 omkar omkar    8 Jul 24 20:57 output.txt
+-rw-rw-r-- 1 omkar omkar   38 Jul 23 20:37 StudentData.txt
+-rw-rw-r-- 1 omkar omkar   12 Jul 23 21:39 studentDiv.txt
+-rw-rw-r-- 1 omkar omkar   17 Jul 24 00:39 studentName.txt
+-rw-rw-r-- 1 omkar omkar    9 Jul 23 21:39 studentRoll.txt
+drwxrwxr-x 5 omkar omkar 4096 Jul 10 23:56 summer
+drwxrwxr-x 5 omkar omkar 4096 Jul 11 18:39 summerCP
+-rw-rw-r-- 1 omkar omkar   67 Jul 23 21:14 ter.txt
+-rw-rw-r-- 1 omkar omkar   25 Jul 24 00:20 test.txt
+drwxrwxr-x 3 omkar omkar 4096 Jul 11 00:00 winter
